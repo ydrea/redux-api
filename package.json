@@ -1,0 +1,32 @@
+{
+  "name": "@ydrea/redux-api",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ydrea/redux-api.git"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": "14.16.1",
+    "npm": "7.7.5",
+    "yarn": "1.22.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react-redux": "^7.2.3",
+    "redux": "^4.0.5",
+    "thunk": "^0.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ydrea/redux-api/issues"
+  },
+  "homepage": "https://github.com/ydrea/redux-api#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ydrea",
+  "license": "ISC",
+  "description": "reducers&actions"
+}
